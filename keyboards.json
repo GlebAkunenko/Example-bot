@@ -1,0 +1,4 @@
+{
+    "start": "{\"one_time\":true,\"inline\":false,\"buttons\":[[{\"color\":\"primary\",\"action\":{\"type\":\"text\",\"payload\":null,\"label\":\"Кнопки в сообщениях\"}}],[{\"color\":\"default\",\"action\":{\"type\":\"text\",\"payload\":null,\"label\":\"Анализ речи\"}},{\"color\":\"default\",\"action\":{\"type\":\"text\",\"payload\":null,\"label\":\"Рандом\"}}]]}",
+    "inline_example": "{\"one_time\":false,\"inline\":true,\"buttons\":[[{\"action\":{\"type\":\"location\",\"payload\":null}}],[{\"color\":\"primary\",\"action\":{\"type\":\"text\",\"payload\":null,\"label\":\"Анализ речи\"}},{\"color\":\"default\",\"action\":{\"type\":\"text\",\"payload\":null,\"label\":\"Рандом\"}}]]}"
+}
