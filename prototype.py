@@ -1,4 +1,4 @@
-import geopy, json, os
+import json, os
 import time as t
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 from vk_api import *
